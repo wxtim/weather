@@ -6,4 +6,6 @@ Localized areas of hillfog.
 
 Widespread tornados.
 
+# Outlook
 
+Strong Crosswinds on Runway 80/260
